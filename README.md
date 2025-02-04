@@ -1,7 +1,5 @@
 # Brightness Control
 
-## Description
-
 This program automatically adjusts the screen brightness based on the room's lighting using a camera. It analyzes the captured image and adjusts the monitor brightness accordingly. A hotkey (default: F9) is used to control brightness adjustment.
 
 ## Features
